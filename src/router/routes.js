@@ -6,6 +6,14 @@ import test3 from '@/views/Content/SFC/test3';
 import test4 from '@/views/Content/SFC/test4';
 import test5 from '@/views/Content/SFC/test5';
 import test5 from '@/views/Content/SFC/test5';
+import test5 from '@/views/Content/SFC/test5';
+import test5 from '@/views/Content/SFC/test5';
+import test5 from '@/views/Content/SFC/test5';
+import test5 from '@/views/Content/SFC/test5';
+import test5 from '@/views/Content/SFC/test5';
+import test5 from '@/views/Content/SFC/test5';
+import test5 from '@/views/Content/SFC/test5';
+import test5 from '@/views/Content/SFC/test5';
 // $h
 
 
@@ -30,6 +38,38 @@ let routes = [
       {
         path: 'test4',
         component: test4
+      },
+      {
+        path: 'test5',
+        component: test5
+      },
+      {
+        path: 'test5',
+        component: test5
+      },
+      {
+        path: 'test5',
+        component: test5
+      },
+      {
+        path: 'test5',
+        component: test5
+      },
+      {
+        path: 'test5',
+        component: test5
+      },
+      {
+        path: 'test5',
+        component: test5
+      },
+      {
+        path: 'test5',
+        component: test5
+      },
+      {
+        path: 'test5',
+        component: test5
       },
       {
         path: 'test5',
