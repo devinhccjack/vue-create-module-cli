@@ -1,3 +1,10 @@
+### 参考
+vue项目内自动生成页面，zash-cli
+
+https://blog.csdn.net/zwf193071/article/details/107761790
+
+
+
 
 # zash-cli
 

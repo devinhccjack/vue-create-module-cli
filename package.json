@@ -1,9 +1,9 @@
 {
-  "name": "zash-cli",
+  "name": "auto-create-cli",
   "version": "1.0.5",
   "description": "A simple CLI for generating the pages",
   "bin": {
-    "zash": "bin/zash"
+    "autoc": "bin/zash"
   },
   "repository": {
     "type": "git",
