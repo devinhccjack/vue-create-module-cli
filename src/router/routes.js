@@ -14,6 +14,13 @@ import test5 from '@/views/Content/SFC/test5';
 import test5 from '@/views/Content/SFC/test5';
 import test5 from '@/views/Content/SFC/test5';
 import test5 from '@/views/Content/SFC/test5';
+import test11 from '@/views/Content/SFC/test11';
+import test11 from '@/views/Content/SFC/test11';
+import test11 from '@/views/Content/SFC/test11';
+import test11 from '@/views/Content/SFC/test11';
+import test11 from '@/views/Content/SFC/test11';
+import test12 from '@/views/Content/SFC/test12';
+import test13 from '@/views/Content/SFC/test13';
 // $h
 
 
@@ -78,6 +85,34 @@ let routes = [
       {
         path: 'test5',
         component: test5
+      },
+      {
+        path: 'test11',
+        component: test11
+      },
+      {
+        path: 'test11',
+        component: test11
+      },
+      {
+        path: 'test11',
+        component: test11
+      },
+      {
+        path: 'test11',
+        component: test11
+      },
+      {
+        path: 'test11',
+        component: test11
+      },
+      {
+        path: 'test12',
+        component: test12
+      },
+      {
+        path: 'test13',
+        component: test13
       },
 // $f
 ]
