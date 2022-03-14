@@ -1,8 +1,28 @@
+### 使用方法
+
+git clone https://github.com/hechongchong/vue-create-module-cli.git
+
+git checkout master
+
+cd vue-create-module-cli && npm install --save
+
+npm link
+
+### 创建页面及对应路由
+
+autoc create testfile
+
+# 可选单页面或者多页面
+
+single
+
+### 可执行npm publish 打包成npm包
+
+
 ### 参考
 vue项目内自动生成页面，zash-cli
 
 https://blog.csdn.net/zwf193071/article/details/107761790
-
 
 
 
