@@ -5,19 +5,6 @@ import test2 from '@/views/Content/SFC/test2';
 import test3 from '@/views/Content/SFC/test3';
 import test4 from '@/views/Content/SFC/test4';
 import test5 from '@/views/Content/SFC/test5';
-import test5 from '@/views/Content/SFC/test5';
-import test5 from '@/views/Content/SFC/test5';
-import test5 from '@/views/Content/SFC/test5';
-import test5 from '@/views/Content/SFC/test5';
-import test5 from '@/views/Content/SFC/test5';
-import test5 from '@/views/Content/SFC/test5';
-import test5 from '@/views/Content/SFC/test5';
-import test5 from '@/views/Content/SFC/test5';
-import test5 from '@/views/Content/SFC/test5';
-import test11 from '@/views/Content/SFC/test11';
-import test11 from '@/views/Content/SFC/test11';
-import test11 from '@/views/Content/SFC/test11';
-import test11 from '@/views/Content/SFC/test11';
 import test11 from '@/views/Content/SFC/test11';
 import test12 from '@/views/Content/SFC/test12';
 import test13 from '@/views/Content/SFC/test13';
@@ -49,58 +36,6 @@ let routes = [
       {
         path: 'test5',
         component: test5
-      },
-      {
-        path: 'test5',
-        component: test5
-      },
-      {
-        path: 'test5',
-        component: test5
-      },
-      {
-        path: 'test5',
-        component: test5
-      },
-      {
-        path: 'test5',
-        component: test5
-      },
-      {
-        path: 'test5',
-        component: test5
-      },
-      {
-        path: 'test5',
-        component: test5
-      },
-      {
-        path: 'test5',
-        component: test5
-      },
-      {
-        path: 'test5',
-        component: test5
-      },
-      {
-        path: 'test5',
-        component: test5
-      },
-      {
-        path: 'test11',
-        component: test11
-      },
-      {
-        path: 'test11',
-        component: test11
-      },
-      {
-        path: 'test11',
-        component: test11
-      },
-      {
-        path: 'test11',
-        component: test11
       },
       {
         path: 'test11',
